@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+YOLOv8 INT8 TFLite Inference Example (#7317)
