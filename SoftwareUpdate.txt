@@ -1,1 +1,1 @@
-fix val each epoch
+Remove unused variables (#8511)
