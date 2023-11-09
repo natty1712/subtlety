@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
