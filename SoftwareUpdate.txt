@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Update format.yml to pull_request_target (#7460)
