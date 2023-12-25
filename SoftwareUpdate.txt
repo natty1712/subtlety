@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
