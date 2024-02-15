@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Add horizontal Mosaic3 augmentation (#6898)
