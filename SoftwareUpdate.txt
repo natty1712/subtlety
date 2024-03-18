@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Allow Annotator PIL.Image inputs (#8397)
