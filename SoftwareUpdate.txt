@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Add Amazon Sagemaker Docs integrations page (#7293)
